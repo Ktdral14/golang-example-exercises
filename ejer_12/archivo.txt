@@ -1,0 +1,2 @@
+hola mundo
+este es un ejemplo de manejo de archivos en Go (Golang)
