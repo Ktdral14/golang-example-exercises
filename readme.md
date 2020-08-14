@@ -13,3 +13,8 @@ Go es un lenguaje compilado, lo que nos permite generar archivos .exe que empaqu
 `go run programa.go` - Ejecuta nuestro programa escrito en go sin crear un ejecutable.
 
 `go build programa.go` - Crea el ejecutable de nuestro programa.
+
+---
+
+### Para más información mira este curso:
+<https://www.udemy.com/course/lenguaje-go/>
